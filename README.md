@@ -14,7 +14,7 @@ This project demonstrates an interactive "mouse follower" effect where an image 
 
 ## Demo
 
-Check out the live demo here: [](#).
+Check out the live demo here: [ https://dineshdcshinde.github.io/Dom_Mouse_Follower/](#).
 
 ---
 
